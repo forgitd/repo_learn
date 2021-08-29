@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jredis/jredis.iml" filepath="$PROJECT_DIR$/jredis/jredis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_reids/springboot_redis.iml" filepath="$PROJECT_DIR$/springboot_reids/springboot_redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_redis2/springboot_redis2.iml" filepath="$PROJECT_DIR$/springboot_redis2/springboot_redis2.iml" />
+    </modules>
+  </component>
+</project>
